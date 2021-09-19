@@ -16,5 +16,5 @@
 
 [Azure Sentinel Team Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/bg-p/AzureSentinelBlog)
 
-
+#### [home](./welcome.md)
 

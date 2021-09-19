@@ -11,3 +11,6 @@ A lot of security seolutions exist which cater to specific needs of an organiati
 ![MCRA](./Media/MCRA.PNG)
 
 ### [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+
+#### [home](./welcome.md)
+
