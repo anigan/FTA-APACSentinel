@@ -5,8 +5,9 @@ A lot of security seolutions exist which cater to specific needs of an organiati
 
 ![Security Solutions](./Media/Solutions.PNG)
 
-## The Microsoft Security Stack for Security Operations Center
+### The Microsoft Security Stack for Security Operations Center
+<br>
 
 ![MCRA](./Media/MCRA.PNG)
 
-## [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+### [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
