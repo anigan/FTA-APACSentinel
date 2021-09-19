@@ -1,7 +1,7 @@
-# Project
+# Welcome to FTA Live for Azure Sentinel
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> This call would not be recorded.
+> Please type any questions that you have in the chat window.
 
 As the maintainer of this project, please make a few updates:
 
