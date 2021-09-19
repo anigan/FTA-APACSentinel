@@ -3,10 +3,10 @@ Azure Sentinel is a Security information and event management (SIEM). A SIEM sys
 
 A lot of security seolutions exist which cater to specific needs of an organiation. A SIEM cits at the centre itegrating and collecting data from all these solutions.
 
-![Security Solutions](./media/solutions.PNG)
+![Security Solutions](./Media/Solutions.PNG)
 
 ## The Microsoft Security Stack for Security Operations Center
 
-![MCRA](./media/mcra.PNG)
+![MCRA](./Media/MCRA.PNG)
 
 ## [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
