@@ -10,7 +10,15 @@ A lot of security seolutions exist which cater to specific needs of an organiati
 
 ![MCRA](./Media/MCRA.PNG)
 
-### [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+### Where does Azure Security Center fit into this
+Azure Security Center was originally designed to be a Cloud Workload Posture Protection(CWPP) service which can help protect all infrastructure in Azure and other major clouds.
 
-#### [home](./welcome.md)
+Azure Security Center also includes Azure Defender which is the EDR/XDR solution for Cloud and selected on-prem workloads. More details can be found [here](https://docs.microsoft.com/en-us/azure/security-center/security-center-introduction).
+
+### What is Azure Sentinel?
+Azure Sentinel is Microsoft's cloud native SIEM(Security Information and Event Management) + SOAR(Security Ochestration and Response) and has the capability to monitor and remediate several workloads in Azure, Other Clouds as well as On-Premises. 
+
+[More Details](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+
+#### | [home](./welcome.md)
 
