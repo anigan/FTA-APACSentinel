@@ -1,4 +1,4 @@
-# Take Aways ( Go- Dos)
+# Take Aways (Go-Dos)
 
 ### Learning Azure Sentinel:
 
