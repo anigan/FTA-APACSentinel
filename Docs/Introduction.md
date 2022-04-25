@@ -5,8 +5,7 @@ A lot of security solutions exist which cater to specific needs of an organiatio
 
 ![Security Solutions](./Media/Solutions.PNG)
 
-### The Microsoft Security Stack for Security Operations Center
-<br>
+## The Microsoft Security Stack for Security Operations Center
 
 ![MCRA](./Media/MCRA.PNG)
 
@@ -18,7 +17,8 @@ Defender for Cloud also includes Azure Defender which is the EDR/XDR solution fo
 ### What is Microsoft Sentinel?
 MIcrosoft Sentinel is Microsoft's cloud native SIEM (Security Information and Event Management) + SOAR(Security Ochestration and Response) and has the capability to monitor and remediate several workloads in Azure, Other Clouds as well as On-Premises. 
 
+
 [More Details](https://docs.microsoft.com/en-us/azure/sentinel/overview)
 
-#### | [home](./welcome.md)
+#### | [home](../README.md)
 
