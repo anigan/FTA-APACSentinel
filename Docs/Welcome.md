@@ -14,6 +14,7 @@ This content is accessible directly through : <https://aka.ms/ftalive/apac-senti
 
 Please give us your feedback on <https://aka.ms/ftalive-feedback>
 
+
 Agenda
 
 1. [What is Microsoft Sentinel?](./Docs/Introduction.md)
